@@ -1,5 +1,5 @@
 {
-  "name": "misfit",
+  "name": "misfit-nodejs-example",
   "version": "0.0.0",
   "description": "misfit api test",
   "main": "server.js",
