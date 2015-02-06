@@ -1,0 +1,17 @@
+{
+  "name": "misfit",
+  "version": "0.0.0",
+  "description": "misfit api test",
+  "main": "server.js",
+  "dependencies": {
+    "hapi": "^8.1.0",
+    "misfit-cloud-api": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
